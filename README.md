@@ -3,7 +3,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/3zyW4BAOm5hxyQDqJ7/giphy.gif"  />
+
+  <img height="200" src="https://github.com/user-attachments/assets/9f4126df-7d68-49d8-9748-1df987d6d8a3"  />
+
 </div>
 
 ###
