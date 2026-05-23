@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">I am a software engineer student from Istanbul. I enjoy learning new technologies and improving myself.</h3>
+<h3 align="left">I am a software engineer from Istanbul. I enjoy learning new technologies and improving myself.</h3>
 
 ###
 
